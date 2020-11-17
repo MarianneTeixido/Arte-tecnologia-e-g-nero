@@ -11,7 +11,7 @@ Convidada: Marianne Teixido (MX). Artista livecoder, integrante do colectivo RGG
 
 # Live Coding, una mirada crítica desde la interseccionalidad. 
 
-
+![live](https://github.com/MarianneTeixido/hackcode2.0/blob/master/img/01.jpg)
 
 
 
