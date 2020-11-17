@@ -35,7 +35,7 @@ El live coding, como práctica artística inclusiva que pretende ser accesible, 
 
 Por otro lado, siguiendo la misma pauta, Algorave se propone como un espacio para compartir desde el cuerpo y el baile. Partiendo también de un código de ética.
  
-![algorave](https://github.com/MarianneTeixido/Arte-tecnologia-e-g-nero/blob/main/img/toplap.png)
+![algorave](https://github.com/MarianneTeixido/Arte-tecnologia-e-g-nero/blob/main/img/algorave.png)
 
 [Algorave Guidelines](https://github.com/Algorave/guidelines)
 
